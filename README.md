@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stickmangav
+- 👋 Hi, I’m Gavin Pike
 - 👀 I’m interested in ...Complex Origami and Crash testing
 - 🌱 I’m currently learning ...Python and Raspberry pi GPIO control
 - 💞️ I’m looking to collaborate on ... Automation projects big and small (as my knowledge grows)
